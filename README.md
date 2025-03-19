@@ -6,4 +6,3 @@
   Planilha de acompanhamento de progresso para visualizar os dados atualizados em tempo real.
 
 - [Site do Projeto](https://217098desafio01.netlify.app)  
-  Site do projeto
